@@ -1,0 +1,1709 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+                              obj\debug\lpc_chip_11u6x\src\clock_11u6x.o (__aeabi_uidiv)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+                              obj\debug\lpc_chip_11u6x\src\clock_11u6x.o (__aeabi_uldivmod)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o) (__clzdi2)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o) (__clzsi2)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-impure.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-init.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memcpy-stub.o)
+                              obj\debug\src\main.o (memcpy)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memset.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-atexit.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-fini.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__atexit.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-atexit.o) (__register_exitproc)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+SystemCoreClock     0x4               obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+tempTime            0x4               obj\debug\src\main.o
+currentTime         0x4               obj\debug\src\main.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x82c obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x87 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x44 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0xfd obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x1df obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x66 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x26 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x1f obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x250 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x17e obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0xca obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x18 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x70 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x34 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x10d obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0xac obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x64 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x1c obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x4c obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x2fb obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x112 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0xb8 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x201 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x152 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000      0x18a obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x88 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0xd2 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x42 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x82c obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x87 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x44 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0xfd obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x1df obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x66 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x26 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x1f obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x250 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x17e obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0xca obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x18 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x70 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x34 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x10d obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0xac obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x64 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x1c obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x4c obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x2fb obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x112 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0xb8 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x201 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x152 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000      0x18a obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x88 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0xd2 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x42 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x82c obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x87 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x44 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0xfd obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x1df obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x66 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x26 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x1f obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x250 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x17e obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0xca obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x18 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x70 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x34 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x10d obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0xac obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x64 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x1c obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x4c obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x2fb obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x112 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0xb8 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x201 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x152 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000      0x18a obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x88 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0xd2 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x42 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x82c obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x87 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x44 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0xfd obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x1df obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x66 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x26 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x1f obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x250 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x17e obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0xca obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x18 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x70 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x34 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x10d obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0xac obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x64 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x1c obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x4c obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x2fb obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x112 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0xb8 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x201 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x152 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000      0x18a obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x88 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0xd2 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x42 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x82c obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x87 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x44 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0xfd obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x1df obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x66 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x26 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x1f obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x250 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x17e obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0xca obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x18 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x70 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x34 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x10d obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0xac obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x64 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x1c obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x4c obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x2fb obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x112 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0xb8 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x201 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x152 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000      0x18a obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x88 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0xd2 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x42 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x82c obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x87 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x44 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0xfd obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x1df obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x66 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x26 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x1f obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x250 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x17e obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0xca obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x18 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x70 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x34 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x10d obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0xac obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x64 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x1c obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x4c obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x2fb obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x112 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0xb8 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x201 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x152 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000      0x18a obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x88 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0xd2 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x42 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x82c obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x87 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x44 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0xfd obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x1df obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x66 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x26 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x1f obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x250 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x17e obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0xca obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x18 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x70 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x34 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x10d obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0xac obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x64 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x1c obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x4c obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x2fb obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x112 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0xb8 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x201 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x152 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000      0x18a obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x88 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0xd2 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x42 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x82c obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x87 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x44 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0xfd obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x1df obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x22 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x66 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x26 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x1f obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x250 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x17e obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0xca obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x18 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x5e obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x70 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x34 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x10d obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0xac obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x6a obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x64 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x1c obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x4c obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x2fb obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x112 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0xb8 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x201 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x152 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000      0x18a obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x88 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x40 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x16 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0xd2 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x3a obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x42 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x00000000       0x10 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x82c obj\debug\src\main.o
+ .debug_macro   0x00000000       0x22 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x87 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x44 obj\debug\src\main.o
+ .debug_macro   0x00000000       0xfd obj\debug\src\main.o
+ .debug_macro   0x00000000       0x5e obj\debug\src\main.o
+ .debug_macro   0x00000000      0x1df obj\debug\src\main.o
+ .debug_macro   0x00000000       0x22 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x66 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x10 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\main.o
+ .debug_macro   0x00000000       0x1f obj\debug\src\main.o
+ .debug_macro   0x00000000      0x250 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x17e obj\debug\src\main.o
+ .debug_macro   0x00000000       0xca obj\debug\src\main.o
+ .debug_macro   0x00000000       0x18 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x5e obj\debug\src\main.o
+ .debug_macro   0x00000000       0x6a obj\debug\src\main.o
+ .debug_macro   0x00000000       0x70 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x34 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x10d obj\debug\src\main.o
+ .debug_macro   0x00000000       0x10 obj\debug\src\main.o
+ .debug_macro   0x00000000       0xac obj\debug\src\main.o
+ .debug_macro   0x00000000       0x40 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x6a obj\debug\src\main.o
+ .debug_macro   0x00000000       0x64 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x1c obj\debug\src\main.o
+ .debug_macro   0x00000000       0x4c obj\debug\src\main.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x2fb obj\debug\src\main.o
+ .debug_macro   0x00000000      0x112 obj\debug\src\main.o
+ .debug_macro   0x00000000       0xb8 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x201 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x152 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x18a obj\debug\src\main.o
+ .debug_macro   0x00000000       0x88 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x40 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\main.o
+ .debug_macro   0x00000000       0xd2 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\main.o
+ .debug_macro   0x00000000       0x42 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x10 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .group         0x00000000        0x8 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x82c obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x22 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x87 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x44 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0xfd obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x5e obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x1df obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x22 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x66 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x10 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x26 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x3a obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x1f obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x250 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x17e obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0xca obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x18 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x5e obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x6a obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x70 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x34 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x10d obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x10 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0xac obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x40 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x6a obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x64 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x1c obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x4c obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x16 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x2fb obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x112 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0xb8 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x201 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x152 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000      0x18a obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x88 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x40 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x16 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0xd2 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x3a obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x42 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00000000       0x10 obj\debug\startup_lpc11u68.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash256        0x00000000         0x00018000         xr
+Ram0_32          0x10000100         0x00007f00         xrw
+Ram1_2           0x20000000         0x00000800         xrw
+Ram2USB_2        0x20004000         0x00000800         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x00040000                __top_MFlash256 = 0x40000
+                0x10008000                __top_Ram0_32 = 0x10008000
+                0x20000800                __top_Ram1_2 = 0x20000800
+                0x20004800                __top_Ram2USB_2 = 0x20004800
+
+.text           0x00000000     0x222c
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 obj\debug\startup_lpc11u68.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x2238 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000100 ADDR (.data)
+                0x000000c8        0x4 LONG 0x43c SIZEOF (.data)
+                0x000000cc        0x4 LONG 0x2238 LOADADDR (.data_RAM2)
+                0x000000d0        0x4 LONG 0x20000000 ADDR (.data_RAM2)
+                0x000000d4        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000d8        0x4 LONG 0x2238 LOADADDR (.data_RAM3)
+                0x000000dc        0x4 LONG 0x20004000 ADDR (.data_RAM3)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM3)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000544 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x2c SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x20000000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4        0x4 LONG 0x20004000 ADDR (.bss_RAM3)
+                0x000000f8        0x4 LONG 0x0 SIZEOF (.bss_RAM3)
+                0x000000fc                __bss_section_table_end = .
+                0x000000fc                __section_table_end = .
+                0x000000e4                __bss_start__ = __bss_section_table
+                0x000000fc                __bss_end__ = __bss_section_table_end
+ *(.after_vectors*)
+ .after_vectors
+                0x000000fc       0x94 obj\debug\startup_lpc11u68.o
+                0x000000fc                ResetISR
+ *(.text*)
+ .text          0x00000190        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .text          0x00000190       0x60 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .text          0x000001f0       0x78 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x000001f0                _start
+                0x000001f0                _mainCRTStartup
+ .text          0x00000268       0xf0 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+                0x000002ec                SystemCoreClockUpdate
+                0x00000304                Chip_USB_Init
+ .text          0x00000358      0x590 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+                0x00000528                Chip_Clock_GetUSARTNBaseClockRate
+                0x000005ac                Chip_Clock_SetUSARTNBaseClockRate
+                0x00000630                Chip_Clock_SetSystemPLLSource
+                0x0000065c                Chip_Clock_SetPLLBypass
+                0x000006a4                Chip_Clock_SetUSBPLLSource
+                0x000006d0                Chip_Clock_SetMainClockSource
+                0x000006fc                Chip_Clock_SetUSBClockSource
+                0x00000738                Chip_Clock_SetCLKOUTSource
+                0x00000774                Chip_Clock_GetWDTOSCRate
+                0x00000790                Chip_Clock_GetSystemPLLInClockRate
+                0x000007dc                Chip_Clock_GetSystemPLLOutClockRate
+                0x00000800                Chip_Clock_GetUSBPLLInClockRate
+                0x00000840                Chip_Clock_GetUSBPLLOutClockRate
+                0x00000864                Chip_Clock_GetMainClockRate
+                0x000008c4                Chip_Clock_GetSystemClockRate
+ .text          0x000008e8      0x384 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+                0x00000a80                Chip_GPIO_Init
+                0x00000a98                Chip_GPIO_DeInit
+                0x00000ab0                Chip_GPIO_WriteDirBit
+                0x00000b38                Chip_GPIO_SetDir
+                0x00000bc4                Chip_GPIO_SetPinDIR
+                0x00000c18                Chip_GPIO_SetPortDIR
+ .text          0x00000c6c        0x0 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .text          0x00000c6c      0x164 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+                0x00000c6c                Chip_IOCON_PinMuxSet
+                0x00000cfc                Chip_IOCON_SetPinMuxing
+                0x00000d4c                Chip_IOCON_GetPinMux
+ .text          0x00000dd0      0x134 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+                0x00000dd0                Chip_SYSCTL_SetPinInterrupt
+                0x00000e28                Chip_SYSCTL_SetDeepSleepPD
+                0x00000e50                Chip_SYSCTL_SetWakeup
+                0x00000e7c                Chip_SYSCTL_PowerDown
+                0x00000ec0                Chip_SYSCTL_PowerUp
+ .text          0x00000f04      0x16c obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+                0x00000fa4                Chip_SetupIrcClocking
+                0x00000ff4                Chip_SetupXtalClocking
+                0x00001060                Chip_SystemInit
+ .text          0x00001070      0x1bc obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+                0x00001134                Chip_TIMER_Init
+                0x00001154                Chip_TIMER_DeInit
+                0x00001174                Chip_TIMER_Reset
+                0x000011ac                Chip_TIMER_ExtMatchControlSet
+ .text          0x0000122c       0xf0 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+                0x00001290                Chip_WWDT_Init
+                0x000012c8                Chip_WWDT_DeInit
+                0x000012e0                Chip_WWDT_ClearStatusFlag
+ .text          0x0000131c      0x6ec obj\debug\src\main.o
+                0x0000160c                sysTimeInit
+                0x00001658                pwmConfig
+                0x000016e8                TIMER32_0_IRQHandler
+                0x00001828                getTime
+                0x00001844                initGpio
+                0x000019c4                main
+ .text          0x00001a08       0xdc obj\debug\startup_lpc11u68.o
+                0x00001a08                data_init
+                0x00001a48                bss_init
+                0x00001a7c                NMI_Handler
+                0x00001a84                HardFault_Handler
+                0x00001a8c                MemManage_Handler
+                0x00001a94                BusFault_Handler
+                0x00001a9c                UsageFault_Handler
+                0x00001aa4                SVC_Handler
+                0x00001aac                DebugMon_Handler
+                0x00001ab4                PendSV_Handler
+                0x00001abc                SysTick_Handler
+                0x00001ac4                TIMER32_1_IRQHandler
+                0x00001ac4                SCT0_1_IRQHandler
+                0x00001ac4                PIN_INT6_IRQHandler
+                0x00001ac4                IntDefaultHandler
+                0x00001ac4                PIN_INT4_IRQHandler
+                0x00001ac4                SSP0_IRQHandler
+                0x00001ac4                RTC_IRQHandler
+                0x00001ac4                USBWakeup_IRQHandler
+                0x00001ac4                ADCB_IRQHandler
+                0x00001ac4                USART0_IRQHandler
+                0x00001ac4                PIN_INT5_IRQHandler
+                0x00001ac4                PIN_INT2_IRQHandler
+                0x00001ac4                TIMER16_1_IRQHandler
+                0x00001ac4                USB_FIQHandler
+                0x00001ac4                USART1_4_IRQHandler
+                0x00001ac4                SSP1_IRQHandler
+                0x00001ac4                PIN_INT7_IRQHandler
+                0x00001ac4                BOD_WDT_IRQHandler
+                0x00001ac4                PIN_INT1_IRQHandler
+                0x00001ac4                USB_IRQHandler
+                0x00001ac4                I2C1_IRQHandler
+                0x00001ac4                I2C0_IRQHandler
+                0x00001ac4                USART2_3_IRQHandler
+                0x00001ac4                PIN_INT0_IRQHandler
+                0x00001ac4                GINT0_IRQHandler
+                0x00001ac4                DMA_IRQHandler
+                0x00001ac4                PIN_INT3_IRQHandler
+                0x00001ac4                TIMER16_0_IRQHandler
+                0x00001ac4                FMC_IRQHandler
+                0x00001ac4                GINT1_IRQHandler
+                0x00001ac4                ADCA_IRQHandler
+                0x00001acc                __aeabi_atexit
+ .text          0x00001ae4      0x114 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+                0x00001ae4                __aeabi_uidiv
+                0x00001ae4                __udivsi3
+                0x00001bf0                __aeabi_uidivmod
+ .text          0x00001bf8        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x00001bf8                __aeabi_idiv0
+                0x00001bf8                __aeabi_ldiv0
+ .text          0x00001bfc       0x40 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+                0x00001bfc                __aeabi_uldivmod
+ .text          0x00001c3c      0x180 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+                0x00001c3c                __udivmoddi4
+ .text          0x00001dbc       0x18 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+                0x00001dbc                __clzdi2
+ .text          0x00001dd4       0x3c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+                0x00001dd4                __clzsi2
+ .text          0x00001e10        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o)
+ .text.exit     0x00001e10       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o)
+                0x00001e10                exit
+ .text          0x00001e30        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-impure.o)
+ .text          0x00001e30        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00001e30       0x48 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-init.o)
+                0x00001e30                __libc_init_array
+ .text          0x00001e78        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00001e78       0x7c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memcpy-stub.o)
+                0x00001e78                memcpy
+ .text          0x00001ef4        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memset.o)
+ .text.memset   0x00001ef4       0x8c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memset.o)
+                0x00001ef4                memset
+ .text          0x00001f80        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00001f80       0x18 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00001f98       0xfc c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o)
+                0x00001f98                __call_exitprocs
+ .text          0x00002094        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-atexit.o)
+ .text.atexit   0x00002094       0x10 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-atexit.o)
+                0x00002094                atexit
+ .text          0x000020a4        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x000020a4       0x34 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-fini.o)
+                0x000020a4                __libc_fini_array
+ .text          0x000020d8        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x000020d8       0xd4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__atexit.o)
+                0x000020d8                __register_exitproc
+ .text          0x000021ac        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .text._exit    0x000021ac        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                0x000021ac                _exit
+ .text          0x000021b0        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .text          0x000021b0        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ *(.rodata .rodata.*)
+ .rodata        0x000021b0       0x40 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .rodata        0x000021f0       0x14 obj\debug\src\main.o
+                0x000021f0                OscRateIn
+                0x000021f4                RTCOscRateIn
+ .rodata.str1.4
+                0x00002204        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
+ .rodata._global_impure_ptr
+                0x00002208        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-impure.o)
+                0x00002208                _global_impure_ptr
+                0x0000220c                . = ALIGN (0x4)
+                0x0000220c                . = ALIGN (0x4)
+ *(.init)
+ .init          0x0000220c        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x0000220c                _init
+ .init          0x00002210        0x8 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x00002218                . = ALIGN (0x4)
+                0x00002218                __preinit_array_start = .
+ *(.preinit_array)
+                0x00002218                __preinit_array_end = .
+                0x00002218                . = ALIGN (0x4)
+                0x00002218                __init_array_start = .
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x00002218        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x0000221c        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+                0x00002220                __init_array_end = .
+ *(.fini)
+ .fini          0x00002220        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x00002220                _fini
+ .fini          0x00002224        0x8 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x0000222c                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x0000222c                . = ALIGN (0x4)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+
+.glue_7         0x0000222c        0x0
+ .glue_7        0x0000222c        0x0 linker stubs
+
+.glue_7t        0x0000222c        0x0
+ .glue_7t       0x0000222c        0x0 linker stubs
+
+.vfp11_veneer   0x0000222c        0x0
+ .vfp11_veneer  0x0000222c        0x0 linker stubs
+
+.v4_bx          0x0000222c        0x0
+ .v4_bx         0x0000222c        0x0 linker stubs
+
+.iplt           0x0000222c        0x0
+ .iplt          0x0000222c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.ARM.extab      0x0000222c        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000222c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x0000222c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+                0x0000222c                __exidx_start = .
+
+.eh_frame       0x0000222c        0x4
+ .eh_frame      0x0000222c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .eh_frame      0x0000222c        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+
+.ARM.exidx      0x00002230        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00002230        0x8 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00002238        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+                                  0x8 (size before relaxing)
+                0x00002238                __exidx_end = .
+                0x00002238                _etext = .
+
+.rel.dyn        0x00002238        0x0
+ .rel.iplt      0x00002238        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.mtb_buffer_RAM2
+ *(.mtb.$RAM2*)
+ *(.mtb.$RAM1_2*)
+
+.data_RAM2      0x20000000        0x0 load address 0x00002238
+ FILL mask 0xff
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$Ram1_2)
+ *(.data.$RAM2*)
+ *(.data.$Ram1_2*)
+                0x20000000                . = ALIGN (0x4)
+
+.mtb_buffer_RAM3
+ *(.mtb.$RAM3*)
+ *(.mtb.$RAM2USB_2*)
+
+.data_RAM3      0x20004000        0x0 load address 0x00002238
+ FILL mask 0xff
+ *(.ramfunc.$RAM3)
+ *(.ramfunc.$Ram2USB_2)
+ *(.data.$RAM3*)
+ *(.data.$Ram2USB_2*)
+                0x20004000                . = ALIGN (0x4)
+
+.mtb_buffer_default
+ *(.mtb*)
+
+.uninit_RESERVED
+                0x10000100        0x0
+ *(.bss.$RESERVED*)
+                0x10000100                . = ALIGN (0x4)
+                0x10000100                _end_uninit_RESERVED = .
+
+.data           0x10000100      0x43c load address 0x00002238
+ FILL mask 0xff
+                0x10000100                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data          0x10000100        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .data          0x10000100        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+                0x10000100                __dso_handle
+ .data          0x10000104        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x10000104        0x0 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .data          0x10000104        0x0 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .data          0x10000104        0x0 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .data          0x10000104        0x0 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .data          0x10000104        0x0 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .data          0x10000104        0x0 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .data          0x10000104        0x0 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .data          0x10000104        0x0 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .data          0x10000104        0x0 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .data          0x10000104        0x5 obj\debug\src\main.o
+                0x10000104                sysTimeTimer
+ .data          0x10000109        0x0 obj\debug\startup_lpc11u68.o
+ .data          0x10000109        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x10000109        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .data          0x10000109        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x10000109        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+ .data          0x10000109        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+ .data          0x10000109        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+ .data          0x10000109        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o)
+ .data          0x10000109        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-impure.o)
+ *fill*         0x10000109        0x7 ff
+ .data.impure_data
+                0x10000110      0x428 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x10000538        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-impure.o)
+                0x10000538                _impure_ptr
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-init.o)
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memcpy-stub.o)
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memset.o)
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o)
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-atexit.o)
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-fini.o)
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__atexit.o)
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .data          0x1000053c        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x1000053c                . = ALIGN (0x4)
+                0x1000053c                _edata = .
+
+.fini_array     0x1000053c        0x4 load address 0x00002674
+ .fini_array    0x1000053c        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.jcr            0x10000540        0x4 load address 0x00002678
+ .jcr           0x10000540        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .jcr           0x10000540        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+
+.igot.plt       0x10000544        0x0 load address 0x0000267c
+ .igot.plt      0x10000544        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.bss_RAM2       0x20000000        0x0
+ *(.bss.$RAM2*)
+ *(.bss.$Ram1_2*)
+                0x20000000                . = ALIGN (0x4)
+
+.bss_RAM3       0x20004000        0x0
+ *(.bss.$RAM3*)
+ *(.bss.$Ram2USB_2*)
+                0x20004000                . = ALIGN (0x4)
+
+.bss            0x10000544       0x2c
+                0x10000544                _bss = .
+ *(.bss*)
+ .bss           0x10000544        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .bss           0x10000544       0x1c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .bss           0x10000560        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x10000560        0x0 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .bss           0x10000560        0x0 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .bss           0x10000560        0x0 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .bss           0x10000560        0x0 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .bss           0x10000560        0x0 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .bss           0x10000560        0x0 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .bss           0x10000560        0x0 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .bss           0x10000560        0x0 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .bss           0x10000560        0x0 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .bss           0x10000560        0x2 obj\debug\src\main.o
+ .bss           0x10000562        0x0 obj\debug\startup_lpc11u68.o
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-impure.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-init.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memcpy-stub.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memset.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-atexit.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-fini.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__atexit.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .bss           0x10000562        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ *(COMMON)
+ *fill*         0x10000562        0x2 
+ COMMON         0x10000564        0x4 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+                0x10000564                SystemCoreClock
+ COMMON         0x10000568        0x8 obj\debug\src\main.o
+                0x10000568                tempTime
+                0x1000056c                currentTime
+                0x10000570                . = ALIGN (0x4)
+                0x10000570                _ebss = .
+                [!provide]                PROVIDE (end, .)
+                0x10000570                __end__ = .
+
+.noinit_RAM2    0x20000000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$Ram1_2*)
+                0x20000000                . = ALIGN (0x4)
+
+.noinit_RAM3    0x20004000        0x0
+ *(.noinit.$RAM3*)
+ *(.noinit.$Ram2USB_2*)
+                0x20004000                . = ALIGN (0x4)
+
+.noinit         0x10000570        0x0
+                0x10000570                _noinit = .
+ *(.noinit*)
+                0x10000570                . = ALIGN (0x4)
+                0x10000570                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, .)
+                0x10008000                PROVIDE (_vStackTop, (__top_Ram0_32 - 0x0))
+LOAD obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+LOAD obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+LOAD obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+LOAD obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+LOAD obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+LOAD obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+LOAD obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+LOAD obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+LOAD obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+LOAD obj\debug\src\main.o
+LOAD obj\debug\startup_lpc11u68.o
+START GROUP
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+OUTPUT(bin\Debug\proPSUBootloader.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x31 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .ARM.attributes
+                0x00000096       0x31 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .ARM.attributes
+                0x000000c7       0x31 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .ARM.attributes
+                0x000000f8       0x31 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .ARM.attributes
+                0x00000129       0x31 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .ARM.attributes
+                0x0000015a       0x31 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .ARM.attributes
+                0x0000018b       0x31 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .ARM.attributes
+                0x000001bc       0x31 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .ARM.attributes
+                0x000001ed       0x31 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .ARM.attributes
+                0x0000021e       0x31 obj\debug\src\main.o
+ .ARM.attributes
+                0x0000024f       0x31 obj\debug\startup_lpc11u68.o
+ .ARM.attributes
+                0x00000280       0x1e c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000029e       0x1e c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002bc       0x1e c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000002da       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000306       0x1e c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x00000324       0x1e c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000342       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000036e       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000039a       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000003c6       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000003f2       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000041e       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000044a       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000476       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000004a2       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000004ce       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000004fa       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .ARM.attributes
+                0x00000526       0x1e c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .comment       0x0000006e       0x6f obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .comment       0x0000006e       0x6f obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .comment       0x0000006e       0x6f obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .comment       0x0000006e       0x6f obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .comment       0x0000006e       0x6f obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .comment       0x0000006e       0x6f obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .comment       0x0000006e       0x6f obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .comment       0x0000006e       0x6f obj\debug\src\main.o
+ .comment       0x0000006e       0x6f obj\debug\startup_lpc11u68.o
+
+.debug_info     0x00000000     0x54f2
+ .debug_info    0x00000000      0x80a obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_info    0x0000080a      0xce6 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_info    0x000014f0      0x9fc obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_info    0x00001eec       0xae obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_info    0x00001f9a      0x2fa obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_info    0x00002294      0x63a obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_info    0x000028ce      0x73c obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_info    0x0000300a      0x8b7 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_info    0x000038c1      0x753 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_info    0x00004014     0x10db obj\debug\src\main.o
+ .debug_info    0x000050ef      0x403 obj\debug\startup_lpc11u68.o
+
+.debug_abbrev   0x00000000      0xfce
+ .debug_abbrev  0x00000000      0x16c obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_abbrev  0x0000016c      0x269 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_abbrev  0x000003d5      0x175 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_abbrev  0x0000054a       0x4e obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_abbrev  0x00000598      0x153 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_abbrev  0x000006eb       0xdd obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_abbrev  0x000007c8      0x15b obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_abbrev  0x00000923      0x195 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_abbrev  0x00000ab8      0x14c obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_abbrev  0x00000c04      0x281 obj\debug\src\main.o
+ .debug_abbrev  0x00000e85      0x149 obj\debug\startup_lpc11u68.o
+
+.debug_aranges  0x00000000      0x160
+ .debug_aranges
+                0x00000000       0x20 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_aranges
+                0x00000020       0x20 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_aranges
+                0x00000040       0x20 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_aranges
+                0x00000060       0x18 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_aranges
+                0x00000078       0x20 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_aranges
+                0x00000098       0x20 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_aranges
+                0x000000b8       0x20 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_aranges
+                0x000000d8       0x20 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_aranges
+                0x000000f8       0x20 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_aranges
+                0x00000118       0x20 obj\debug\src\main.o
+ .debug_aranges
+                0x00000138       0x28 obj\debug\startup_lpc11u68.o
+
+.debug_macro    0x00000000     0x4305
+ .debug_macro   0x00000000      0x201 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000201      0x82c obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000a2d       0x22 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000a4f       0x87 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000ad6       0x44 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000b1a       0xfd obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000c17       0x5e obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000c75      0x1df obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000e54       0x22 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000e76       0x66 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000edc       0x10 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000eec       0x26 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000f12       0x3a obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000f4c       0x1f obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00000f6b      0x250 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x000011bb      0x17e obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001339       0xca obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001403       0x18 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x0000141b       0x5e obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001479       0x6a obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x000014e3       0x70 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001553       0x34 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001587      0x10d obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001694       0x10 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x000016a4       0xac obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001750       0x40 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001790       0x6a obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x000017fa       0x64 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x0000185e       0x1c obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x0000187a       0x4c obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x000018c6       0x16 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x000018dc      0x2fb obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001bd7      0x112 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001ce9       0xb8 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001da1      0x201 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00001fa2      0x152 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x000020f4      0x18a obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x0000227e       0x88 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00002306       0x40 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00002346       0x16 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x0000235c       0xd2 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x0000242e       0x3a obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x00002468       0x42 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x000024aa       0x10 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_macro   0x000024ba      0x201 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_macro   0x000026bb      0x201 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_macro   0x000028bc      0x201 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_macro   0x00002abd      0x201 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_macro   0x00002cbe      0x22b obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_macro   0x00002ee9      0x201 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_macro   0x000030ea      0x201 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_macro   0x000032eb      0x201 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_macro   0x000034ec      0x241 obj\debug\src\main.o
+ .debug_macro   0x0000372d       0x20 obj\debug\src\main.o
+ .debug_macro   0x0000374d       0x64 obj\debug\src\main.o
+ .debug_macro   0x000037b1      0x2d9 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003a8a       0x52 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003adc       0x35 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003b11       0x9c obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003bad       0x16 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003bc3      0x10e obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003cd1       0x8d obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003d5e       0x52 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003db0       0x1f obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003dcf       0x43 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003e12       0x20 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003e32      0x187 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x00003fb9      0x30d obj\debug\startup_lpc11u68.o
+ .debug_macro   0x000042c6       0x16 obj\debug\startup_lpc11u68.o
+ .debug_macro   0x000042dc       0x29 obj\debug\startup_lpc11u68.o
+
+.debug_line     0x00000000     0x3596
+ .debug_line    0x00000000      0x4a7 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_line    0x000004a7      0x52a obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_line    0x000009d1      0x4ca obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_line    0x00000e9b      0x478 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+ .debug_line    0x00001313      0x4bb obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_line    0x000017ce      0x499 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_line    0x00001c67      0x4d5 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_line    0x0000213c      0x4b4 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_line    0x000025f0      0x49d obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_line    0x00002a8d      0x576 obj\debug\src\main.o
+ .debug_line    0x00003003      0x593 obj\debug\startup_lpc11u68.o
+
+.debug_str      0x00000000     0xe393
+ .debug_str     0x00000000     0xa284 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+                               0xa427 (size before relaxing)
+ .debug_str     0x0000a284      0x7c5 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+                               0xa89a (size before relaxing)
+ .debug_str     0x0000aa49      0x160 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+                               0xa266 (size before relaxing)
+ .debug_str     0x0000aba9       0x25 obj\debug\lpc_chip_11u6x\src\gpiogroup_11u6x.o
+                               0x9b9e (size before relaxing)
+ .debug_str     0x0000abce       0xd6 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+                               0x9c66 (size before relaxing)
+ .debug_str     0x0000aca4      0x1ce obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+                               0xa003 (size before relaxing)
+ .debug_str     0x0000ae72      0x13c obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+                               0xa07c (size before relaxing)
+ .debug_str     0x0000afae      0x166 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+                               0xa27f (size before relaxing)
+ .debug_str     0x0000b114       0x86 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+                               0xa19a (size before relaxing)
+ .debug_str     0x0000b19a      0x5a1 obj\debug\src\main.o
+                               0xa91a (size before relaxing)
+ .debug_str     0x0000b73b     0x2c58 obj\debug\startup_lpc11u68.o
+                               0xca12 (size before relaxing)
+
+.debug_frame    0x00000000      0xfcc
+ .debug_frame   0x00000000       0xa4 obj\debug\lpc_chip_11u6x\src\chip_11u6x.o
+ .debug_frame   0x000000a4      0x394 obj\debug\lpc_chip_11u6x\src\clock_11u6x.o
+ .debug_frame   0x00000438      0x190 obj\debug\lpc_chip_11u6x\src\gpio_11u6x.o
+ .debug_frame   0x000005c8       0x70 obj\debug\lpc_chip_11u6x\src\iocon_11u6x.o
+ .debug_frame   0x00000638       0xb0 obj\debug\lpc_chip_11u6x\src\syscon_11u6x.o
+ .debug_frame   0x000006e8       0xe4 obj\debug\lpc_chip_11u6x\src\sysinit_11u6x.o
+ .debug_frame   0x000007cc       0xf0 obj\debug\lpc_chip_11u6x\src\timer_11u6x.o
+ .debug_frame   0x000008bc       0xb0 obj\debug\lpc_chip_11u6x\src\wwdt_11u6x.o
+ .debug_frame   0x0000096c      0x2ac obj\debug\src\main.o
+ .debug_frame   0x00000c18      0x1a8 obj\debug\startup_lpc11u68.o
+ .debug_frame   0x00000dc0       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000de0       0x3c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000e1c       0x28 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000e44       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-init.o)
+ .debug_frame   0x00000e70       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000e9c       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000ec8       0x54 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000f1c       0x28 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000f44       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000f70       0x3c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000fac       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+
+.debug_ranges   0x00000000       0x18
+ .debug_ranges  0x00000000       0x18 obj\debug\startup_lpc11u68.o

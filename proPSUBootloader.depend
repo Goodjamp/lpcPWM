@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1513022036 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\src\chip_11u6x.c
+	"chip.h"
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\chip.h
+	"lpc_types.h"
+	"sys_config.h"
+	"cmsis.h"
+	"romapi_11u6x.h"
+	"syscon_11u6x.h"
+	"clock_11u6x.h"
+	"iocon_11u6x.h"
+	"pmu_11u6x.h"
+	"crc_11u6x.h"
+	"gpio_11u6x.h"
+	"pinint_11u6x.h"
+	"gpiogroup_11u6x.h"
+	"timer_11u6x.h"
+	"uart_0_11u6x.h"
+	"uart_n_11u6x.h"
+	"ssp_11u6x.h"
+	"adc_11u6x.h"
+	"dma_11u6x.h"
+	"i2c_11u6x.h"
+	"i2cm_11u6x.h"
+	"usbd_11u6x.h"
+	"sct_11u6x.h"
+	"rtc_11u6x.h"
+	"wwdt_11u6x.h"
+	"fmc_11u6x.h"
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\lpc_types.h
+	<stdint.h>
+	<stdbool.h>
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\sys_config.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\cmsis.h
+	"lpc_types.h"
+	"sys_config.h"
+	"core_cm0plus.h"
+
+1544618134 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\core_cm0plus.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\romapi_11u6x.h
+	"iap.h"
+	"error.h"
+	"rom_dma_11u6x.h"
+	"rom_i2c_11u6x.h"
+	"rom_pwr_11u6x.h"
+	"rom_uart_11u6x.h"
+	"romdiv_11u6x.h"
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\iap.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\error.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\rom_dma_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\rom_i2c_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\rom_pwr_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\rom_uart_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\romdiv_11u6x.h
+
+1513022228 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\syscon_11u6x.h
+
+1543857320 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\clock_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\iocon_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\pmu_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\crc_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\gpio_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\pinint_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\gpiogroup_11u6x.h
+
+1544524423 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\timer_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\uart_0_11u6x.h
+	"ring_buffer.h"
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\ring_buffer.h
+	"lpc_types.h"
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\uart_n_11u6x.h
+	"ring_buffer.h"
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\ssp_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\adc_11u6x.h
+
+1543857297 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\dma_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\i2c_11u6x.h
+	"i2c_common_11u6x.h"
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\i2c_common_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\i2cm_11u6x.h
+	"i2c_common_11u6x.h"
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\usbd_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\sct_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\rtc_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\wwdt_11u6x.h
+
+1513022036 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\inc\fmc_11u6x.h
+
+1513022036 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\src\clock_11u6x.c
+	"chip.h"
+
+1513022036 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\src\gpio_11u6x.c
+	"chip.h"
+
+1513022036 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\src\gpiogroup_11u6x.c
+	"chip.h"
+
+1513022036 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\src\iocon_11u6x.c
+	"chip.h"
+
+1513022036 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\src\syscon_11u6x.c
+	"chip.h"
+
+1545210060 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\src\sysinit_11u6x.c
+	"chip.h"
+
+1513022036 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\src\timer_11u6x.c
+	"chip.h"
+
+1513022036 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\lpc_chip_11u6x\src\wwdt_11u6x.c
+	"chip.h"
+
+1545211336 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\src\main.c
+	"stdint.h"
+	"cmsis.h"
+	"chip.h"
+	"clock_11u6x.h"
+	"timer_11u6x.h"
+	"clock_11u6x.h"
+	"gpio_11u6x.h"
+	"iocon_11u6x.h"
+	"wwdt_11u6x.h"
+	"xpressLedDesc.h"
+
+1545209411 c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\src\xpressleddesc.h
+
+1544704401 source:c:\private\programing\lpc\propsu_bootloader_my\propsubootloader\startup_lpc11u68.c
+	"chip.h"
+	<stdlib.h>
+
