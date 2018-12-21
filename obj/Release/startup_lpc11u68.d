@@ -1,8 +1,8 @@
-obj\debug\src\main.o: Src\main.c lpc_chip_11u6x\inc/cmsis.h \
- lpc_chip_11u6x\inc/lpc_types.h lpc_chip_11u6x\inc/sys_config.h \
+obj\release\startup_lpc11u68.o: startup_LPC11U68.c \
+ lpc_chip_11u6x\inc/chip.h lpc_chip_11u6x\inc/lpc_types.h \
+ lpc_chip_11u6x\inc/sys_config.h lpc_chip_11u6x\inc/cmsis.h \
  lpc_chip_11u6x\inc/core_cm0plus.h lpc_chip_11u6x\inc/core_cmInstr.h \
- lpc_chip_11u6x\inc/core_cmFunc.h lpc_chip_11u6x\inc/chip.h \
- lpc_chip_11u6x\inc/cmsis.h lpc_chip_11u6x\inc/romapi_11u6x.h \
+ lpc_chip_11u6x\inc/core_cmFunc.h lpc_chip_11u6x\inc/romapi_11u6x.h \
  lpc_chip_11u6x\inc/iap.h lpc_chip_11u6x\inc/error.h \
  lpc_chip_11u6x\inc/rom_dma_11u6x.h lpc_chip_11u6x\inc/rom_i2c_11u6x.h \
  lpc_chip_11u6x\inc/rom_pwr_11u6x.h lpc_chip_11u6x\inc/rom_uart_11u6x.h \
@@ -17,7 +17,4 @@ obj\debug\src\main.o: Src\main.c lpc_chip_11u6x\inc/cmsis.h \
  lpc_chip_11u6x\inc/i2c_11u6x.h lpc_chip_11u6x\inc/i2c_common_11u6x.h \
  lpc_chip_11u6x\inc/i2cm_11u6x.h lpc_chip_11u6x\inc/usbd_11u6x.h \
  lpc_chip_11u6x\inc/sct_11u6x.h lpc_chip_11u6x\inc/rtc_11u6x.h \
- lpc_chip_11u6x\inc/wwdt_11u6x.h lpc_chip_11u6x\inc/fmc_11u6x.h \
- lpc_chip_11u6x\inc/clock_11u6x.h lpc_chip_11u6x\inc/timer_11u6x.h \
- lpc_chip_11u6x\inc/gpio_11u6x.h lpc_chip_11u6x\inc/iocon_11u6x.h \
- lpc_chip_11u6x\inc/wwdt_11u6x.h Src\ledPinDesc.h
+ lpc_chip_11u6x\inc/wwdt_11u6x.h lpc_chip_11u6x\inc/fmc_11u6x.h

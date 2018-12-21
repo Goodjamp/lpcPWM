@@ -1,4 +1,4 @@
-obj\debug\src\main.o: Src\main.c lpc_chip_11u6x\inc/cmsis.h \
+obj\release\src\main.o: Src\main.c lpc_chip_11u6x\inc/cmsis.h \
  lpc_chip_11u6x\inc/lpc_types.h lpc_chip_11u6x\inc/sys_config.h \
  lpc_chip_11u6x\inc/core_cm0plus.h lpc_chip_11u6x\inc/core_cmInstr.h \
  lpc_chip_11u6x\inc/core_cmFunc.h lpc_chip_11u6x\inc/chip.h \
